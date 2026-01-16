@@ -51,7 +51,7 @@ GestureControlPro/
 
 ## License
 
-MIT License - Feel free to use and modify!
+MIT License
 "# Hand-Gestures" 
 "# HG" 
 "# Hand" 
@@ -59,3 +59,4 @@ MIT License - Feel free to use and modify!
 "# Hand" 
 "# Hand" 
 "# Hand-Guesture" 
+
